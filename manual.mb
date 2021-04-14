@@ -10,7 +10,13 @@
 ## たちつてと
 >>>>>>> parent of 58bb4ca (構成変更)
 aaaaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 bbbbbbbbbbbbbbb
 ccccc
 ttttt
 ddddddddddddd
+=======
+bbbbbbbbbbbbbb
+cccccccccccccccccccc
+dddddddddddddddddddddddd
+>>>>>>> main
